@@ -41,5 +41,12 @@ Here are some ideas to get you started:
 |--------|-------------|--------------|
 | Page de profil GitHub | Ma première contribution Git | Git, Markdown |
 
+## ⭐ Recommandation
+
+> *"Nathan est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !"*  
+> — Thomas, promotion DevOps Azure
+
 ---
 *Page mise à jour le 13/05/2026 à 15h23*
