@@ -35,5 +35,11 @@ Here are some ideas to get you started:
 - LinkedIn : https://www.linkedin.com/in/nathan-tesseyre/
 - Email : n.tesseyre@gmail.com
 
+## 🚀 Mes projets
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| Page de profil GitHub | Ma première contribution Git | Git, Markdown |
+
 ---
 *Page mise à jour le 13/05/2026*
